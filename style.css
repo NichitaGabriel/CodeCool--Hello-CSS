@@ -1,0 +1,48 @@
+body {
+  background-color: #f8f6e4;
+}
+
+p {
+  color: #0d3f70;
+  border-bottom: 2px;
+}
+
+#unique-element {
+  color: rgb(21, 100, 171);
+}
+
+h1 {
+  margin-left: 50px;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+h3 {
+  width: 200px;
+  text-align: center;
+}
+
+h4:hover {
+  color: #0bb1a1;
+}
+
+.specific {
+  color: #f38c00;
+}
+
+h5 {
+  display: none;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+}
+
+.bar {
+  height: 20vh;
+  background-color: rgb(143 200 155);
+}
